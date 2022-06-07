@@ -1,4 +1,7 @@
 master
 sub
 sub2
+<<<<<<< HEAD
+master2
 sub3
+>>>>>>> master
